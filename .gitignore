@@ -1,0 +1,8 @@
+debug/*
+release/*
+temps/*
+Makefile
+MakeFile.Debug
+MakeFile.Release
+organizer_plugin_import.cpp
+.ycm_extra_conf.py
